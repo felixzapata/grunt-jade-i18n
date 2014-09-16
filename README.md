@@ -142,6 +142,11 @@ $ npm test
 
 ## Release History
 
+- **0.3.0** `2014.09.16`
+    - Uninstall `grunt-newer`
+    - Adds compatibility with external tasks like `grunt-newer`
+- **0.2.1** `2014.08.04`
+    - Fix #14
 - **0.2.0** `2014.06.26`
     - Installs and uses `grunt-newer`
 - **0.1.7** `2014.04.22`
@@ -149,7 +154,7 @@ $ npm test
 - **0.1.5** `2013.01.07`
     - Fix #4
 - **0.1.4** `2013.01.03`
-    - Upgrade `grunt-contrib-fade` task dependency to 0.9.0
+    - Upgrade `grunt-contrib-jade` task dependency to 0.9.0
 - **0.1.3** `2013.12.19`
     - Fix #2
     - Fix #3
@@ -180,7 +185,6 @@ Released under MIT license
 [3]: http://jade-lang.com/
 [4]: https://github.com/AdesisNetlife/grunt-jade-i18n/tree/master/test
 [5]: https://github.com/AdesisNetlife/grunt-jade-i18n/blob/master/Gruntfile.coffee
-[6]: https://github.com/tschaub/grunt-newer
 [travis]: https://travis-ci.org/AdesisNetlife/grunt-jade-i18n
 [badge]: http://badge.fury.io/js/grunt-jade-i18n
 [dependencies]: https://gemnasium.com/AdesisNetlife/grunt-jade-i18n
